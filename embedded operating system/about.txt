@@ -1,0 +1,1 @@
+This folder contains all the notes and assignments of embedded operating system 
