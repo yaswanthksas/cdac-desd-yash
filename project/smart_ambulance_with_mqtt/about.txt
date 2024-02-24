@@ -1,0 +1,4 @@
+This project is smart ambulance using mqtt protocol 
+Main idea 
+1. health monitoring system 
+2. traffic management system
